@@ -1,0 +1,65 @@
+- [ ] Inspect the provided invitation reference opening and note its cover composition, text hierarchy, and click affordance.
+- [x] Add a full-screen intro cover that blocks the letter experience until opened.
+- [x] Implement a smooth click-to-open transition that reveals the existing love-letter page.
+- [x] Preserve the current scroll story, proposal interaction, and celebration state after the reveal.
+- [x] Verify desktop and mobile opening behavior, focus accessibility, and build output.
+- [x] Upload the user-supplied cat-holding-heart image to project storage.
+- [x] Replace the introduction heart mark source and tune its displayed size.
+- [x] Verify the replacement on desktop and mobile, then save a new checkpoint.
+- [x] Upload the supplied song to persistent project storage.
+- [x] Start playback from the invitation open click while keeping the intro silent.
+- [x] Add an accessible mute control and verify the audio flow before checkpointing.
+- [x] Add smooth click-to-scroll behavior for the hero and continuation cues.
+- [x] Add a section reveal animation with reduced-motion fallback.
+- [x] Verify keyboard activation, target positioning, build output, and save a checkpoint.
+- [x] Inspect the reported anchor and confirm its smooth-scroll handler is present.
+- [x] Run a fresh build and live click-through verification.
+- [x] Save a new checkpoint after verification or correction.
+- [x] Inspect the TikTok reference and the current proposal/celebration screen.
+- [x] Replace the Valentine proposal ending with loading, CLICK TO BLOOM, and flower-bloom states.
+- [x] Preserve the intro, letter, music, and smooth-scroll flow.
+- [x] Verify the new ending on desktop and mobile, then save a checkpoint.
+- [ ] Inspect the shared YouWare reference and compare its final interaction with the current bloom experience.
+- [ ] Redesign the final page to match the reference’s visual hierarchy, pacing, and bloom interaction more closely.
+- [ ] Preserve the invitation, letter, music, and smooth-scroll flow.
+- [ ] Verify the improved ending on desktop and mobile, then save a checkpoint.
+- [x] Inspect the public Flower repository structure, entry point, and bloom animation implementation.
+- [x] Adapt only the relevant client-side flower interaction into the love-letter project.
+- [x] Preserve the invitation, letter, music, and smooth-scroll flow.
+- [x] Verify the repository-inspired bloom ending on desktop and mobile, then save a checkpoint.
+- [x] Inspect the supplied flower.html, main.js, main.css, style.css, and asset usage.
+- [x] Integrate the supplied flower treatment into the current love-letter bloom ending.
+- [x] Preserve the invitation, letter, music, and existing personalized copy.
+- [x] Verify the integrated flower flow on desktop and mobile, then save a checkpoint.
+- [x] Inspect the current supplied-flower scene bounds and overflow rules.
+- [x] Keep grasses, ground leaves, and flower stems inside the visible garden square.
+- [x] Refine flower and foliage animation staging so the bloom reads clearly in sequence.
+- [x] Verify the completed bloom state at desktop and mobile widths.
+- [x] Run checks, save a checkpoint, and report the corrected version.
+- [x] Inspect the user's new flower-bloom.html source and identify its markup, styles, and script dependencies.
+- [x] Replace the existing bloom implementation with the user's new code while preserving the surrounding love-letter flow.
+- [x] Verify the new bloom interaction on desktop and mobile and confirm audio and navigation remain unchanged.
+- [x] Run checks, save a checkpoint, and report the replacement version.
+- [x] Inspect the reported bloom text element and current canvas-section spacing.
+- [x] Make the text visible and move it downward without changing unrelated content.
+- [x] Verify the correction in the live preview and production build.
+- [x] Save a checkpoint for the visual-editor correction.
+- [ ] Review full-stack project guidance and file-storage setup requirements.
+- [ ] Upgrade the project to full-stack with the built-in file-storage scaffolding.
+- [ ] Preserve and verify the existing love-letter experience after the upgrade.
+- [ ] Save an upgraded project and document the next file-storage integration steps.
+- [x] Complete the bloom-message correction before starting the full-stack upgrade.
+- [x] Identify the bouquet drawing layers in the canvas bloom component.
+- [x] Remove the bouquet while preserving the remaining flowers, foliage, and bloom animation.
+- [x] Verify the simplified final scene and surrounding message/replay flow.
+- [x] Save a checkpoint for the bouquet-removal revision.
+- [x] Review the updated completed-bloom heading and signoff text.
+- [x] Run checks and verify the new copy in the live completed bloom state.
+- [x] Save a checkpoint for the verified copy update.
+- [x] Inspect the BLOOM IT AGAIN click handler and current transition styles.
+- [x] Add a smooth exit animation before the bloom scene resets.
+- [x] Verify the click animation, reset behavior, and accessibility remain intact.
+- [x] Save a checkpoint for the transition update.
+- [ ] Package the complete project codebase into a ZIP archive.
+- [ ] Validate the archive contents and confirm it is downloadable.
+- [ ] Deliver the ZIP archive to the user.
